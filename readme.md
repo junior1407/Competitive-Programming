@@ -12,7 +12,7 @@
 
 ## Pure DP
 
-* [https://www.hackerrank.com/challenges/superman-celebrates-diwali/problem](https://www.hackerrank.com/challenges/superman-celebrates-diwali/problem) Amazing problem. Requires iterative answer and some way to avoid computing problems that won't be useful.
+* [Superman Celebrates Diwali](https://www.hackerrank.com/challenges/superman-celebrates-diwali/problem) Amazing problem. Requires iterative answer and some way to avoid computing problems that won't be useful.
 * [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem): Classic Problem. Pure.
 * [Tournament](https://codeforces.com/contest/1260/problem/E) TRYING TO DO IT.
 * 
@@ -55,14 +55,6 @@
 
 - [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming) : Generate combinations and compare them.
 
-
-
-
-
 # String
 
 * [Encryption](https://www.hackerrank.com/challenges/encryption): String Manipulation
-
-
-
-
