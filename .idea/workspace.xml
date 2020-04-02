@@ -18,6 +18,13 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1ZwwLXVfrG0iRH884gq8XWADMOC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,22 +34,34 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Online Judges/HackerRank/Count Luck" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Online Judges/HackerRank" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Valdir Jr\Documents\Competitive Programming\Online Judges\HackerRank" />
+      <recent name="C:\Users\Valdir Jr\Documents\Competitive Programming\Online Judges\HackerRank\New Year Chaos" />
       <recent name="C:\Users\Valdir Jr\Documents\Competitive Programming\Online Judges\HackerRank\Count Luck" />
       <recent name="C:\Users\Valdir Jr\Documents\Competitive Programming\Online Judges\HackerRank\Hackerland Radio Transmitters" />
       <recent name="C:\Users\Valdir Jr\Documents\Competitive Programming\Online Judges\HackerRank\Non-Divisible Subset" />
-      <recent name="C:\Users\Valdir Jr\Documents\Competitive Programming\Online Judges\HackerRank\Pairs" />
-      <recent name="C:\Users\Valdir Jr\Documents\Competitive Programming\Online Judges\HackerRank\Connected Cells in a Grid" />
     </key>
   </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585833887315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585833887315" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1585763564570">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585763564570" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585833279245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585833279245" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585833443471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585833443471" />
   </component>
 </project>

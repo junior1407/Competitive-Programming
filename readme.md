@@ -10,21 +10,18 @@
 
 * [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change): Pure
 
-
-
 ## Pure DP
 
 * [https://www.hackerrank.com/challenges/superman-celebrates-diwali/problem](https://www.hackerrank.com/challenges/superman-celebrates-diwali/problem) Amazing problem. Requires iterative answer and some way to avoid computing problems that won't be useful.
-  
-  
+* [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem): Classic Problem. Pure.
+* [Tournament](https://codeforces.com/contest/1260/problem/E) TRYING TO DO IT.
+* 
 
 # Backtracking :boom:
 
 ---
 
 * [Count Luck](https://www.hackerrank.com/challenges/count-luck/problem): Pure
-
-
 
 # Search
 
@@ -40,9 +37,9 @@
 
 * [Red Knight's Shortest Path](https://www.hackerrank.com/challenges/red-knights-shortest-path/problem): BFS problem.
 
+* [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/submissions/code/149588080)
+
 * 
-
-
 
 # Adhoc
 
@@ -50,4 +47,22 @@
 
 - [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) : Interesting Problem.
 
-- 
+- [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/) : Search for anagrams in a string.
+
+- [Array Manipulation](https://www.hackerrank.com/challenges/crush): Cummulative Sum.
+
+- [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/) :  Awesome Insight.
+
+- [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming) : Generate combinations and compare them.
+
+
+
+
+
+# String
+
+* [Encryption](https://www.hackerrank.com/challenges/encryption): String Manipulation
+
+
+
+
