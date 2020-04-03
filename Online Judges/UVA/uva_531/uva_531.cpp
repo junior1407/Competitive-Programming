@@ -1,6 +1,9 @@
+// Created by Valdir de Souza Junior
+// vsj@ic.ufal.br
+// valdirjunior.contato@gmail.com
+// https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=472
+
 #include <bits/stdc++.h>
-
-
 using namespace std;
 
 vector<string> s1;

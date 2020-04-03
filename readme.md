@@ -14,7 +14,7 @@
 
 * [Superman Celebrates Diwali](https://www.hackerrank.com/challenges/superman-celebrates-diwali/problem) Amazing problem. Requires iterative answer and some way to avoid computing problems that won't be useful.
 * [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem): Classic Problem. Pure.
-* [Tournament](https://codeforces.com/contest/1260/problem/E) TRYING TO DO IT.
+* [Tournament](https://codeforces.com/contest/1260/problem/E): Really hard to see it as a DP.  Hard to model the data. Really hard question but it is simple once the concept is grasped.
 * 
 
 # Backtracking :boom:
