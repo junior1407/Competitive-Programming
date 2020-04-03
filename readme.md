@@ -39,7 +39,7 @@
 
 * [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/submissions/code/149588080)
 
-* 
+* [Dreamoon and Ranking Collection](https://codeforces.com/contest/1330/problem/A):  Search in array by counting gaps.
 
 # Adhoc
 
@@ -58,3 +58,9 @@
 # String
 
 * [Encryption](https://www.hackerrank.com/challenges/encryption): String Manipulation
+
+# Data Structures
+
+* [Dreamoon Likes Permutations](https://codeforces.com/contest/1330/problem/B): Requires a simple way to check for a valid permutation.  By using a set, it's possible to check if the permutation is correct regardless the order and repeated elements. 
+
+
