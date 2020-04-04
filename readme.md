@@ -65,4 +65,6 @@
 
 # Greedy
 
-* [https://codeforces.com/contest/1330/problem/C](https://codeforces.com/contest/1330/problem/C): Hard to see it as a greedy problem. Requires cummulative sum.
+* [Dreamoon Likes Coloring](https://codeforces.com/contest/1330/problem/C): Hard to see it as a greedy problem. Requires cummulative sum.
+
+
