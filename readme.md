@@ -63,4 +63,6 @@
 
 * [Dreamoon Likes Permutations](https://codeforces.com/contest/1330/problem/B): Requires a simple way to check for a valid permutation.  By using a set, it's possible to check if the permutation is correct regardless the order and repeated elements. 
 
+# Greedy
 
+* [https://codeforces.com/contest/1330/problem/C](https://codeforces.com/contest/1330/problem/C): Hard to see it as a greedy problem. Requires cummulative sum.
