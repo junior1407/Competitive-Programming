@@ -69,6 +69,7 @@
 * [Sushi for Two](https://codeforces.com/contest/1138/problem/A) : Greedy problem that requires creating an array of sizes.
 * [Discounts](https://codeforces.com/problemset/problem/1132/B): Simple Greedy
 * [Mishka and the Last Exam](https://codeforces.com/contest/1093/problem/C) : Greedy solution comes up by increasing the current minimum value and decreasing the maximum value according to some criteria.
+* [Fight with Monsters](https://codeforces.com/problemset/problem/1296/D): Requires criteria to calculate minimum turns. Then, just goggle up all results that fit k.
 
 
 
