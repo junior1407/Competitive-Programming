@@ -66,5 +66,4 @@
 # Greedy
 
 * [Dreamoon Likes Coloring](https://codeforces.com/contest/1330/problem/C): Hard to see it as a greedy problem. Requires cummulative sum.
-
-
+* [Sushi for Two](https://codeforces.com/contest/1138/problem/A) : Greedy problem that requires creating an array of sizes.
