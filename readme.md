@@ -71,3 +71,10 @@
 * [Mishka and the Last Exam](https://codeforces.com/contest/1093/problem/C) : Greedy solution comes up by increasing the current minimum value and decreasing the maximum value according to some criteria.
 * [Fight with Monsters](https://codeforces.com/problemset/problem/1296/D): Requires criteria to calculate minimum turns. Then, just goggle up all results that fit k.
 * [Homecoming](https://codeforces.com/contest/1315/problem/B):  Greedy + DP. Requires a way to skip unnecessary paths.  Iterative is recommended.
+* [Frog Jumps](https://codeforces.com/contest/1324/problem/C): Can be done in O(n) by using a trick to change the string, and realizing that going left is not necessary.
+* [K-Complete Word](https://codeforces.com/problemset/problem/1332/C): Can be solved by realizing that the word needs to be the concatenation of many small palindromes of size n/k.
+* 
+
+
+
+
