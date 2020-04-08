@@ -73,8 +73,5 @@
 * [Homecoming](https://codeforces.com/contest/1315/problem/B):  Greedy + DP. Requires a way to skip unnecessary paths.  Iterative is recommended.
 * [Frog Jumps](https://codeforces.com/contest/1324/problem/C): Can be done in O(n) by using a trick to change the string, and realizing that going left is not necessary.
 * [K-Complete Word](https://codeforces.com/problemset/problem/1332/C): Can be solved by realizing that the word needs to be the concatenation of many small palindromes of size n/k.
-* 
-
-
-
-
+* [Little Artem](https://codeforces.com/contest/1333/problem/A) : There is a simple way out to this maze. Same solution for all cases.
+* [Kind Atlon](https://codeforces.com/contest/1333/problem/B): If there are +1 and -1 then every number is possible.
