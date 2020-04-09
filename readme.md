@@ -57,9 +57,12 @@
 
 - [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem): By sorting the frequency array and examining the boundaries, it is possible to get to the answer.
 
+- [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem): Really simple to do by using the std. 
+
 # String
 
 * [Encryption](https://www.hackerrank.com/challenges/encryption): String Manipulation
+* [The time in words](https://www.hackerrank.com/challenges/the-time-in-words/problem): Dictionary of strings.
 
 # Data Structures
 
