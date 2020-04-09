@@ -67,6 +67,7 @@
 # Data Structures
 
 * [Dreamoon Likes Permutations](https://codeforces.com/contest/1330/problem/B): Requires a simple way to check for a valid permutation.  By using a set, it's possible to check if the permutation is correct regardless the order and repeated elements. 
+* [Minimum Array](https://codeforces.com/contest/1157/problem/E): Greedy problem. Can be solved easily by using multiset.
 
 # Greedy
 
@@ -81,3 +82,4 @@
 * [Little Artem](https://codeforces.com/contest/1333/problem/A) : There is a simple way out to this maze. Same solution for all cases.
 * [Kind Atlon](https://codeforces.com/contest/1333/problem/B): If there are +1 and -1 then every number is possible.
 * [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem): By taking notes on the desired number of balls and the number of existing balls of each type a greedy approach becomes possible.  
+* [Eugene and an Array](https://codeforces.com/contest/1333/problem/C): Hard to see it as a greedy.  By realizing that a set { ai , ai+1 ...  aj} has a sum 0 if SuffixSum(ai-1) ==  SuffimSum(aj),  the number of sub good arrays is j - i -1.
