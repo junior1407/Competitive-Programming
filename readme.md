@@ -23,7 +23,15 @@
 
 * [Count Luck](https://www.hackerrank.com/challenges/count-luck/problem): Pure
 
-# Search
+# Graph:boom:
+
+---
+
+* [Mania de Par](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931): Interesting Dijkstra problem with DP.  Keeping separate values for even and odd is helpful. 
+* [Bomba](https://olimpiada.ic.unicamp.br/pratique/p2/2012/f2/bomba/): Djikstra-like problem where there is an extra state that is time.
+* [Zak Galou](https://www.urionlinejudge.com.br/judge/pt/problems/view/1409): DP Coin Change + Dijkstra. (DOING) :fire: 
+
+# Search:boom:
 
 ---
 
@@ -41,7 +49,7 @@
 
 * [Dreamoon and Ranking Collection](https://codeforces.com/contest/1330/problem/A):  Search in array by counting gaps.
 
-# Adhoc
+# Adhoc:boom:
 
 ---
 
@@ -59,17 +67,17 @@
 
 - [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem): Really simple to do by using the std. 
 
-# String
+# String:boom:
 
 * [Encryption](https://www.hackerrank.com/challenges/encryption): String Manipulation
 * [The time in words](https://www.hackerrank.com/challenges/the-time-in-words/problem): Dictionary of strings.
 
-# Data Structures
+# Data Structures:boom:
 
 * [Dreamoon Likes Permutations](https://codeforces.com/contest/1330/problem/B): Requires a simple way to check for a valid permutation.  By using a set, it's possible to check if the permutation is correct regardless the order and repeated elements. 
 * [Minimum Array](https://codeforces.com/contest/1157/problem/E): Greedy problem. Can be solved easily by using multiset.
 
-# Greedy
+# Greedy:boom:
 
 * [Dreamoon Likes Coloring](https://codeforces.com/contest/1330/problem/C): Hard to see it as a greedy problem. Requires cummulative sum.
 * [Sushi for Two](https://codeforces.com/contest/1138/problem/A) : Greedy problem that requires creating an array of sizes.
