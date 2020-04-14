@@ -12,6 +12,7 @@ map<int, vector<ii>> graph;
 int djikstra(int start, int destiny, int vertices){
     vector<vector<int>> visited (vertices);
     priority_queue<ii, vector<ii>, greater<ii>> pq;
+
     pq.push({0,start}); // (curr_time, curr_vertex)
     int u, currTime;
     int v, t;

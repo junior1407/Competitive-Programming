@@ -29,7 +29,8 @@
 
 * [Mania de Par](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931): Interesting Dijkstra problem with DP.  Keeping separate values for even and odd is helpful. 
 * [Bomba](https://olimpiada.ic.unicamp.br/pratique/p2/2012/f2/bomba/): Djikstra-like problem where there is an extra state that is time.
-* [Zak Galou](https://www.urionlinejudge.com.br/judge/pt/problems/view/1409): DP Coin Change + Dijkstra. (DOING) :fire: 
+* [Zak Galou](https://www.urionlinejudge.com.br/judge/pt/problems/view/1409): DP Coin Change + Dijkstra.
+* [Floyd: City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem): There are many queries and they can be repeated. Floyd-Warshall is recommended.
 
 # Search:boom:
 
