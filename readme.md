@@ -31,6 +31,9 @@
 * [Bomba](https://olimpiada.ic.unicamp.br/pratique/p2/2012/f2/bomba/): Djikstra-like problem where there is an extra state that is time.
 * [Zak Galou](https://www.urionlinejudge.com.br/judge/pt/problems/view/1409): DP Coin Change + Dijkstra.
 * [Floyd: City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem): There are many queries and they can be repeated. Floyd-Warshall is recommended.
+* [Roads in Berland](https://codeforces.com/contest/25/problem/C): Problem to add edges and compute new distances without running Floyd-Warshall again.  Possible O(V^2).
+* [String Problem](https://codeforces.com/contest/33/problem/B): Floyd-Warshall problem with strings.
+* [Arbitrag](https://www.spoj.com/problems/ARBITRAG/): Floydwarshall with different concept. Instead of minimizing, we're trying to maximize and not performing summation, instead multiplication.
 
 # Search:boom:
 
