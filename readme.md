@@ -34,6 +34,7 @@
 * [Roads in Berland](https://codeforces.com/contest/25/problem/C): Problem to add edges and compute new distances without running Floyd-Warshall again.  Possible O(V^2).
 * [String Problem](https://codeforces.com/contest/33/problem/B): Floyd-Warshall problem with strings.
 * [Arbitrag](https://www.spoj.com/problems/ARBITRAG/): Floydwarshall with different concept. Instead of minimizing, we're trying to maximize and not performing summation, instead multiplication.
+* [Greg and Graph](https://codeforces.com/contest/295/problem/B):  Distance to all as edges are removed. 
 
 # Search:boom:
 
@@ -94,4 +95,4 @@
 * [Little Artem](https://codeforces.com/contest/1333/problem/A) : There is a simple way out to this maze. Same solution for all cases.
 * [Kind Atlon](https://codeforces.com/contest/1333/problem/B): If there are +1 and -1 then every number is possible.
 * [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem): By taking notes on the desired number of balls and the number of existing balls of each type a greedy approach becomes possible.  
-* [Eugene and an Array](https://codeforces.com/contest/1333/problem/C): Hard to see it as a greedy.  By realizing that a set { ai , ai+1 ...  aj} has a sum 0 if SuffixSum(ai-1) ==  SuffimSum(aj),  the number of sub good arrays is j - i -1.
+  * [Eugene and an Array](https://codeforces.com/contest/1333/problem/C): Hard to see it as a greedy.  By realizing that a set { ai , ai+1 ...  aj} has a sum 0 if SuffixSum(ai-1) ==  SuffimSum(aj),  the number of sub good arrays is j - i -1.
