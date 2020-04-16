@@ -4,9 +4,11 @@
 
 ## Longest Commom Sequence (LCS)
 
-> https://youtu.be/ha_zA_0oofI
+> 1. https://youtu.be/ha_zA_0oofI
 > 
+> 2. [https://www.youtube.com/watch?v=Qf5R-uYQRPk](https://www.youtube.com/watch?v=Qf5R-uYQRPk)
 > 
+> 3. [https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
 
 - [Compromise](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=472) : Requires retrieval of the optimum solution's pa.
 
@@ -14,28 +16,64 @@
 
 ## Coin Change
 
+> 1. https://youtu.be/1mtvm2ubHCY
+> 
+> 2. https://youtu.be/mA-6bHQ6-wc
+
 * [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change): Pure
 
 ## Pure DP
 
+> 1. [https://www.youtube.com/watch?v=OQ5jsbhAv_M](https://www.youtube.com/watch?v=OQ5jsbhAv_M) (Best video by far)
+> 
+> 2. [https://www.youtube.com/watch?v=YBSt1jYwVfU&t=1s](https://www.youtube.com/watch?v=YBSt1jYwVfU&t=1s)
+
 * [Superman Celebrates Diwali](https://www.hackerrank.com/challenges/superman-celebrates-diwali/problem) Amazing problem. Requires iterative answer and some way to avoid computing problems that won't be useful.
 * [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem): Classic Problem. Pure.
 * [Tournament](https://codeforces.com/contest/1260/problem/E): Really hard to see it as a DP.  Hard to model the data. Really hard question but it is simple once the concept is grasped.
-* 
 
 # Backtracking :boom:
 
 ---
 
+## Pure
+
+> 1. [https://www.youtube.com/watch?v=GMQtrq-X4Sw](https://www.youtube.com/watch?v=GMQtrq-X4Sw)
+
 * [Count Luck](https://www.hackerrank.com/challenges/count-luck/problem): Pure
+
+
 
 # Graph:boom:
 
 ---
 
-* [Mania de Par](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931): Interesting Dijkstra problem with DP.  Keeping separate values for even and odd is helpful. 
-* [Bomba](https://olimpiada.ic.unicamp.br/pratique/p2/2012/f2/bomba/): Djikstra-like problem where there is an extra state that is time.
+## Shortest Path (One vertex)
+
+> Algorithms from fastest to slowest: Dijkstra (Only positive edges), SPFA,  BellmanFord
+> 
+> [Really good paper for all algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f17/www/lectures/lec13-dp2.pdf) 
+> 
+> Dijkstra
+> 
+> - [Slides](https://docs.google.com/presentation/d/1Xt6LbjTD0U_E3ca-FE3DsQUiH9wSoNcLCj-JAKGAMVs/edit#slide=id.g15c01fb3bb_0_605)
+> 
+> BellmanFord
+> 
+> - [Slides](https://docs.google.com/presentation/d/1RoV5-y2zCea-tT_WOhffJlX3DEU8_mEL62b1TuyrMTM/edit#slide=id.p) 
+
+- [Mania de Par](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931): Interesting Shortest Path problem with DP. Keeping separate values for even and odd is helpful.
+- [Bomba](https://olimpiada.ic.unicamp.br/pratique/p2/2012/f2/bomba/): Djikstra-like problem where there is an extra state that is time.
 * [Zak Galou](https://www.urionlinejudge.com.br/judge/pt/problems/view/1409): DP Coin Change + Dijkstra.
+
+
+
+## Shortest Path (All pairs)
+
+> [Really good paper for all algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f17/www/lectures/lec13-dp2.pdf)
+> 
+> 
+
 * [Floyd: City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem): There are many queries and they can be repeated. Floyd-Warshall is recommended.
 * [Roads in Berland](https://codeforces.com/contest/25/problem/C): Problem to add edges and compute new distances without running Floyd-Warshall again.  Possible O(V^2).
 * [String Problem](https://codeforces.com/contest/33/problem/B): Floyd-Warshall problem with strings.
