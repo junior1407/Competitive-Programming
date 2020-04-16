@@ -4,15 +4,18 @@
 
 ## Longest Commom Sequence (LCS)
 
-> 1. https://youtu.be/ha_zA_0oofI
-> 
-> 2. [https://www.youtube.com/watch?v=Qf5R-uYQRPk](https://www.youtube.com/watch?v=Qf5R-uYQRPk)
-> 
-> 3. [https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
+* **Content**
+  
+  * https://youtu.be/ha_zA_0oofI](https://youtu.be/ha_zA_0oofI)
+  - [https://www.youtube.com/watch?v=Qf5R-uYQRPk](https://www.youtube.com/watch?v=Qf5R-uYQRPk)
+  
+  - [https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
 
-- [Compromise](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=472) : Requires retrieval of the optimum solution's pa.
 
-    
+
+* **Problems:**
+  
+  + [Compromise](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=472) : Requires retrieval of the optimum solution's path.    
 
 ## Coin Change
 
@@ -42,43 +45,51 @@
 
 * [Count Luck](https://www.hackerrank.com/challenges/count-luck/problem): Pure
 
-
-
 # Graph:boom:
 
 ---
 
 ## Shortest Path (One vertex)
 
-> Algorithms from fastest to slowest: Dijkstra (Only positive edges), SPFA,  BellmanFord
-> 
-> [Really good paper for all algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f17/www/lectures/lec13-dp2.pdf) 
-> 
-> Dijkstra
-> 
-> - [Slides](https://docs.google.com/presentation/d/1Xt6LbjTD0U_E3ca-FE3DsQUiH9wSoNcLCj-JAKGAMVs/edit#slide=id.g15c01fb3bb_0_605)
-> 
-> BellmanFord
-> 
-> - [Slides](https://docs.google.com/presentation/d/1RoV5-y2zCea-tT_WOhffJlX3DEU8_mEL62b1TuyrMTM/edit#slide=id.p) 
+- **Content:**
+  
+  - Algorithms from fastest to slowest: Dijkstra (Only positive edges), SPFA, BellmanFord
+  
+  * [Really good paper for all algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f17/www/lectures/lec13-dp2.pdf)
+  
+  * Dijkstra
+    
+    * [Slides](https://docs.google.com/presentation/d/1Xt6LbjTD0U_E3ca-FE3DsQUiH9wSoNcLCj-JAKGAMVs/edit#slide=id.g15c01fb3bb_0_605)
+  
+  * BellmanFord
+    
+    * [Slides](https://docs.google.com/presentation/d/1RoV5-y2zCea-tT_WOhffJlX3DEU8_mEL62b1TuyrMTM/edit#slide=id.p)
 
-- [Mania de Par](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931): Interesting Shortest Path problem with DP. Keeping separate values for even and odd is helpful.
-- [Bomba](https://olimpiada.ic.unicamp.br/pratique/p2/2012/f2/bomba/): Djikstra-like problem where there is an extra state that is time.
-* [Zak Galou](https://www.urionlinejudge.com.br/judge/pt/problems/view/1409): DP Coin Change + Dijkstra.
-
-
+* **Problems:**
+  
+  * [Mania de Par](https://www.urionlinejudge.com.br/judge/pt/problems/view/1931): Interesting Shortest Path problem with DP. Keeping separate values for even and odd is helpful.  Can be solved with Dijkstra.
+  
+  * [Bomba](https://olimpiada.ic.unicamp.br/pratique/p2/2012/f2/bomba/): Djikstra-like problem where there is an extra state that is time.
+  
+  * [Zak Galou](https://www.urionlinejudge.com.br/judge/pt/problems/view/1409): DP Coin Change + Shortest Path ( Can be solved with Dijkstra).
 
 ## Shortest Path (All pairs)
 
 > [Really good paper for all algorithms](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f17/www/lectures/lec13-dp2.pdf)
-> 
-> 
 
 * [Floyd: City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem): There are many queries and they can be repeated. Floyd-Warshall is recommended.
 * [Roads in Berland](https://codeforces.com/contest/25/problem/C): Problem to add edges and compute new distances without running Floyd-Warshall again.  Possible O(V^2).
 * [String Problem](https://codeforces.com/contest/33/problem/B): Floyd-Warshall problem with strings.
 * [Arbitrag](https://www.spoj.com/problems/ARBITRAG/): Floydwarshall with different concept. Instead of minimizing, we're trying to maximize and not performing summation, instead multiplication.
 * [Greg and Graph](https://codeforces.com/contest/295/problem/B):  Distance to all as edges are removed. 
+
+
+
+## MaxFlow MinCost
+
+* **Problems:**
+  
+  * [Amazing Race](https://www.hackerearth.com/pt-br/practice/algorithms/graphs/minimum-cost-maximum-flow/practice-problems/algorithm/amazing-race-3/): Can be solved by MaxFlowMinCost by connecting all racers to all checkpoints and filtering them on the sink.
 
 # Search:boom:
 
@@ -139,4 +150,6 @@
 * [Little Artem](https://codeforces.com/contest/1333/problem/A) : There is a simple way out to this maze. Same solution for all cases.
 * [Kind Atlon](https://codeforces.com/contest/1333/problem/B): If there are +1 and -1 then every number is possible.
 * [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem): By taking notes on the desired number of balls and the number of existing balls of each type a greedy approach becomes possible.  
-  * [Eugene and an Array](https://codeforces.com/contest/1333/problem/C): Hard to see it as a greedy.  By realizing that a set { ai , ai+1 ...  aj} has a sum 0 if SuffixSum(ai-1) ==  SuffimSum(aj),  the number of sub good arrays is j - i -1.
+* [Eugene and an Array](https://codeforces.com/contest/1333/problem/C): Hard to see it as a greedy.  By realizing that a set { ai , ai+1 ...  aj} has a sum 0 if SuffixSum(ai-1) ==  SuffimSum(aj),  the number of sub good arrays is j - i -1.
+
+
