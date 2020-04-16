@@ -4,7 +4,13 @@
 
 ## Longest Commom Sequence (LCS)
 
-- [Compromise](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=472) : Requires retrieval of the optimum solution's path.
+> https://youtu.be/ha_zA_0oofI
+> 
+> 
+
+- [Compromise](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=472) : Requires retrieval of the optimum solution's pa.
+
+    
 
 ## Coin Change
 
