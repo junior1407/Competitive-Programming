@@ -107,6 +107,18 @@
   
   * [Greg and Graph](https://codeforces.com/contest/295/problem/B):  Distance to all as edges are removed. 
 
+
+
+## MaxFlow
+
+- Content:
+  
+  - a
+
+- **Problems:**
+  
+  - [The Dog Task](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=611): Maxflow to choose maximum number of matchings. Retrieval of paths can be done by looking at the residual graph.
+
 ## MaxFlow MinCost
 
 - **Content:**

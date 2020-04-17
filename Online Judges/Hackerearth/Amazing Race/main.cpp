@@ -22,7 +22,7 @@ void addEdge(int u, int v, int f, int c){
     matrixGraph[v][u][0] = 0; matrixGraph[v][u][1] = -c;
 }
 
-double distance(int pointA[], int pointB[], double speed){
+double distance(        int pointA[], int pointB[], double speed){
     double x_1 = pointA[0], y_1 = pointA[1], x_2 = pointB[0], y_2 = pointB[1];
     return(ceil(((x_2-x_1)*(x_2-x_1) + (y_2-y_1)*(y_2-y_1)) / (speed * speed)));
 }
