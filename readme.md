@@ -107,8 +107,6 @@
   
   * [Greg and Graph](https://codeforces.com/contest/295/problem/B):  Distance to all as edges are removed. 
 
-
-
 ## MaxFlow
 
 - Content:
@@ -146,6 +144,10 @@
 
 * [Dreamoon and Ranking Collection](https://codeforces.com/contest/1330/problem/A):  Search in array by counting gaps.
 
+* [Pão a Metro](https://www.urionlinejudge.com.br/judge/en/problems/view/2329): Pure Binary Search Problem
+
+* [The Monkey and the Oiled Bamboo](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3183): Binary search problem. Maximum is the sum of all heights.
+
 # Adhoc:boom:
 
 ---
@@ -163,6 +165,8 @@
 - [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem): By sorting the frequency array and examining the boundaries, it is possible to get to the answer.
 
 - [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem): Really simple to do by using the std. 
+
+- [Bitmap](https://www.thehuxley.com/problem/821): Divide and Conquer problem. Treat as a string.
 
 # String:boom:
 
