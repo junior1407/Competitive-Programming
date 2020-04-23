@@ -148,6 +148,12 @@
 
 * [The Monkey and the Oiled Bamboo](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3183): Binary search problem. Maximum is the sum of all heights.
 
+* [Onde esta o marmore?](https://www.urionlinejudge.com.br/judge/pt/problems/view/1025): Binary Search. Requires optimization on the sort.  Quicksort is recommended.
+
+* [Ajude seu Madruga](https://www.urionlinejudge.com.br/judge/pt/problems/view/1912):Binary search. Requires 1e-5 precision. Using double is recommended.
+
+* [Imposto Real](https://www.urionlinejudge.com.br/judge/pt/problems/view/2666): BFS search. Try to take advantage that it is a MST.
+
 # Adhoc:boom:
 
 ---
@@ -167,6 +173,8 @@
 - [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem): Really simple to do by using the std. 
 
 - [Bitmap](https://www.thehuxley.com/problem/821): Divide and Conquer problem. Treat as a string.
+  
+  [Seasonal War](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=288): Flood and Fill problem. 
 
 # String:boom:
 
