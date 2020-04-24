@@ -92,6 +92,8 @@
   * [Bomba](https://olimpiada.ic.unicamp.br/pratique/p2/2012/f2/bomba/): Djikstra-like problem where there is an extra state that is time.
   
   * [Zak Galou](https://www.urionlinejudge.com.br/judge/pt/problems/view/1409): DP Coin Change + Shortest Path ( Can be solved with Dijkstra).
+  
+  * [Jack goes to Rapture](https://www.hackerrank.com/challenges/jack-goes-to-rapture/problem): Minimum distance with different parameter for distance. 
 
 ## Shortest Path (All pairs)
 
