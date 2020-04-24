@@ -44,6 +44,12 @@
   - [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem): Classic Problem. Pure.
   
   - [Tournament](https://codeforces.com/contest/1260/problem/E): Really hard to see it as a DP.  Hard to model the data. Really hard question but it is simple once the concept is grasped.
+  
+  - [Nastya and Scorebord](https://codeforces.com/contest/1341/problem/D): DP problem. Requires greedy retrieval.
+  
+  - [SuperSale](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1071): Simple Knapsack.
+  
+  - [Corte de Hastes](https://www.thehuxley.com/problem/874): Classic DP Problem.
 
 # Backtracking :boom:
 
@@ -125,6 +131,12 @@
 * **Problems:**
   
   * [Amazing Race](https://www.hackerearth.com/pt-br/practice/algorithms/graphs/minimum-cost-maximum-flow/practice-problems/algorithm/amazing-race-3/): Can be solved by MaxFlowMinCost by connecting all racers to all checkpoints and filtering them on the sink.
+
+## General Problems:
+
+- Problems:
+  
+  - [Tarzan](https://olimpiada.ic.unicamp.br/pratique/p2/2012/f1/tarzan/): Check if it`s possible to go to all vertices.  Any visited technique will work.
 
 # Search:boom:
 
