@@ -50,6 +50,8 @@
   - [SuperSale](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1071): Simple Knapsack.
   
   - [Corte de Hastes](https://www.thehuxley.com/problem/874): Classic DP Problem.
+  
+  - [Subsequence Hate](https://codeforces.com/contest/1363/problem/B): DP problem of subsequence.
 
 # Backtracking :boom:
 
@@ -139,6 +141,7 @@
 - Problems:
   
   - [Tarzan](https://olimpiada.ic.unicamp.br/pratique/p2/2012/f1/tarzan/): Check if it`s possible to go to all vertices.  Any visited technique will work.
+  - [Game on Leaves](https://codeforces.com/contest/1363/problem/C): Can be solved by removing each leaf one by one. Or checking a general condidition to determine the winner in O(1).
 
 # Search:boom:
 
@@ -186,9 +189,13 @@
 
 - [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem): Really simple to do by using the std. 
 
-- [Bitmap](https://www.thehuxley.com/problem/821): Divide and Conquer problem. Treat as a string.
-  
-  [Seasonal War](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=288): Flood and Fill problem. 
+- [Bitmap](https://www.thehuxley.com/problem/821): Divide and Conquer problem. Treat as a string
+
+- [Seasonal War](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=288): Flood and Fill problem. 
+
+- [Park Lighting](https://codeforces.com/contest/1358/problem/A): Quick Math Problem. Odd and Even can be summarized in the same formula.
+
+- [Odd Selection](https://codeforces.com/contest/1363/problem/A): The number of odd numbers needs to be odd.  Can be solved with brute force. 
 
 # String:boom:
 
