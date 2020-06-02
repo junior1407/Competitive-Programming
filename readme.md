@@ -171,6 +171,8 @@
 
 * [Imposto Real](https://www.urionlinejudge.com.br/judge/pt/problems/view/2666): BFS search. Try to take advantage that it is a MST.
 
+* [https://codeforces.com/contest/1358/problem/B](https://codeforces.com/contest/1358/problem/B): It is possible to search in a linear search, think greedy.
+
 # Adhoc:boom:
 
 ---
@@ -197,6 +199,10 @@
 
 - [Odd Selection](https://codeforces.com/contest/1363/problem/A): The number of odd numbers needs to be odd.  Can be solved with brute force. 
 
+- [Celex Update](https://codeforces.com/contest/1358/problem/C): Math problem. There are x_diff * *y_diff + the first paths.
+
+- [The Best Vacation](https://codeforces.com/contest/1358/problem/D): Tricky cummulative sum problem.
+
 # String:boom:
 
 * [Encryption](https://www.hackerrank.com/challenges/encryption): String Manipulation
@@ -222,5 +228,3 @@
 * [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem): By taking notes on the desired number of balls and the number of existing balls of each type a greedy approach becomes possible.  
 * [Eugene and an Array](https://codeforces.com/contest/1333/problem/C): Hard to see it as a greedy.  By realizing that a set { ai , ai+1 ...  aj} has a sum 0 if SuffixSum(ai-1) ==  SuffimSum(aj),  the number of sub good arrays is j - i -1.
 * [Tree Shufling](https://codeforces.com/contest/1363/problem/E): Greedy Problem.  Children nodes can have their parent's cost if it's smaller than theirs.  Then solving bottom to top can be done in a greedy way.
-
-
