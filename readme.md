@@ -221,3 +221,6 @@
 * [Kind Atlon](https://codeforces.com/contest/1333/problem/B): If there are +1 and -1 then every number is possible.
 * [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem): By taking notes on the desired number of balls and the number of existing balls of each type a greedy approach becomes possible.  
 * [Eugene and an Array](https://codeforces.com/contest/1333/problem/C): Hard to see it as a greedy.  By realizing that a set { ai , ai+1 ...  aj} has a sum 0 if SuffixSum(ai-1) ==  SuffimSum(aj),  the number of sub good arrays is j - i -1.
+* [Tree Shufling](https://codeforces.com/contest/1363/problem/E): Greedy Problem.  Children nodes can have their parent's cost if it's smaller than theirs.  Then solving bottom to top can be done in a greedy way.
+
+
