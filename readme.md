@@ -228,3 +228,15 @@
 * [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem): By taking notes on the desired number of balls and the number of existing balls of each type a greedy approach becomes possible.  
 * [Eugene and an Array](https://codeforces.com/contest/1333/problem/C): Hard to see it as a greedy.  By realizing that a set { ai , ai+1 ...  aj} has a sum 0 if SuffixSum(ai-1) ==  SuffimSum(aj),  the number of sub good arrays is j - i -1.
 * [Tree Shufling](https://codeforces.com/contest/1363/problem/E): Greedy Problem.  Children nodes can have their parent's cost if it's smaller than theirs.  Then solving bottom to top can be done in a greedy way.
+* [Road to Zero](https://codeforces.com/contest/1342/problem/A): If 2a > b, we can use both operations.
+
+# Constructive:boom:
+
+---
+
+* [Binary Period](https://codeforces.com/contest/1342/problem/B):  Problem to find a string containing the specified substring. There is a pattern.
+* [Phoenix and Beauty](https://codeforces.com/contest/1348/problem/B): Problem to make an array have all subarrays of size k with an equal sum. Making it periodic is the way.
+
+# Math
+
+* [Yet Another Couting Problem](https://codeforces.com/contest/1342/problem/C): [Still struggling to understand].
