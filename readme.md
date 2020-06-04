@@ -52,6 +52,8 @@
   - [Corte de Hastes](https://www.thehuxley.com/problem/874): Classic DP Problem.
   
   - [Subsequence Hate](https://codeforces.com/contest/1363/problem/B): DP problem of subsequence.
+  
+  - [Phoenix and Berries](https://codeforces.com/contest/1348/problem/E): Great DP Problem. Requires user to calculate how many will be left, instead of the given question. 
 
 # Backtracking :boom:
 
@@ -239,4 +241,5 @@
 
 # Math
 
-* [Yet Another Couting Problem](https://codeforces.com/contest/1342/problem/C): [Still struggling to understand].
+* [Yet Another Couting Problem](https://codeforces.com/contest/1342/problem/C): The answers for module operation are periodic with a period of a times b. So we only need to calculate up to this point and use these results for the given question.
+* [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A): Since summation of 2^i = 2^n, then we need to put the last element with the first half. 
