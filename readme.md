@@ -238,8 +238,14 @@
 
 * [Binary Period](https://codeforces.com/contest/1342/problem/B):  Problem to find a string containing the specified substring. There is a pattern.
 * [Phoenix and Beauty](https://codeforces.com/contest/1348/problem/B): Problem to make an array have all subarrays of size k with an equal sum. Making it periodic is the way.
+* [Phoenix and Distribution](https://codeforces.com/contest/1348/problem/C): Problem to find the minimum string of maximum lexicography. 
 
 # Math
 
 * [Yet Another Couting Problem](https://codeforces.com/contest/1342/problem/C): The answers for module operation are periodic with a period of a times b. So we only need to calculate up to this point and use these results for the given question.
 * [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A): Since summation of 2^i = 2^n, then we need to put the last element with the first half. 
+* [Puzzle Pieces](https://codeforces.com/contest/1345/problem/A): Quick problem. Any other solution then (1,x) or (2,2) would be a solution composed of 2x3 and that is impossible.
+* [Card Constructions](https://codeforces.com/contest/1345/problem/B): Number of trianglesis given by  summation of n. That is, n*(n+1).  3 by triangle and excluding the floor. 
+* [Hilbert's Hotel](https://codeforces.com/contest/1345/problem/C): Remember remainder and module are different operations when the number is negative. 
+
+
