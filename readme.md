@@ -177,6 +177,8 @@
 
 * [Solve the Maze](https://codeforces.com/contest/1365/problem/D): By surrounding all bad people, and checking if all good person can reach the exit is a good way of thinking. BFS can be used.
 
+* [Mixing Water](https://codeforces.com/contest/1359/problem/C): Binary search problem. 
+
 # Adhoc:boom:
 
 ---
@@ -206,6 +208,12 @@
 - [Celex Update](https://codeforces.com/contest/1358/problem/C): Math problem. There are x_diff * *y_diff + the first paths.
 
 - [The Best Vacation](https://codeforces.com/contest/1358/problem/D): Tricky cummulative sum problem.
+
+- [Berland Poker](https://codeforces.com/contest/1359/problem/A): Try to give one player all jokers he can hold and divide the others as evenly as possible.
+
+- [Yet Another Yet Another Task](https://codeforces.com/contest/1359/problem/D):  Problem to find the sequence with the biggest sum assuming one element is taken out.  Since the numbers range is small, its possible to test all elements from the range.
+
+- [New Theatre Square](https://codeforces.com/contest/1359/problem/B): By making y = min(y, 2x). The solution is simply segment/2 * y + segment%2 * x.
 
 # String:boom:
 
@@ -252,5 +260,3 @@
 * [Card Constructions](https://codeforces.com/contest/1345/problem/B): Number of trianglesis given by  summation of n. That is, n*(n+1).  3 by triangle and excluding the floor. 
 * [Hilbert's Hotel](https://codeforces.com/contest/1345/problem/C): Remember remainder and module are different operations when the number is negative. 
 * [Matrix Game](https://codeforces.com/contest/1365/problem/A): Number of reamining moves is min(col, row). So depending if is even or odd we can determine the winner.
-
-
