@@ -175,6 +175,8 @@
 
 * [https://codeforces.com/contest/1358/problem/B](https://codeforces.com/contest/1358/problem/B): It is possible to search in a linear search, think greedy.
 
+* [Solve the Maze](https://codeforces.com/contest/1365/problem/D): By surrounding all bad people, and checking if all good person can reach the exit is a good way of thinking. BFS can be used.
+
 # Adhoc:boom:
 
 ---
@@ -239,6 +241,8 @@
 * [Binary Period](https://codeforces.com/contest/1342/problem/B):  Problem to find a string containing the specified substring. There is a pattern.
 * [Phoenix and Beauty](https://codeforces.com/contest/1348/problem/B): Problem to make an array have all subarrays of size k with an equal sum. Making it periodic is the way.
 * [Phoenix and Distribution](https://codeforces.com/contest/1348/problem/C): Problem to find the minimum string of maximum lexicography. 
+* [Trouble Sort](https://codeforces.com/contest/1365/problem/B): If there's both 1 and 0 it can be sorted.
+* [Rotation Matching](https://codeforces.com/contest/1365/problem/C): By only shifting to a direction and a single array, it`s possible to store the results in an array.
 
 # Math
 
@@ -247,5 +251,6 @@
 * [Puzzle Pieces](https://codeforces.com/contest/1345/problem/A): Quick problem. Any other solution then (1,x) or (2,2) would be a solution composed of 2x3 and that is impossible.
 * [Card Constructions](https://codeforces.com/contest/1345/problem/B): Number of trianglesis given by  summation of n. That is, n*(n+1).  3 by triangle and excluding the floor. 
 * [Hilbert's Hotel](https://codeforces.com/contest/1345/problem/C): Remember remainder and module are different operations when the number is negative. 
+* [Matrix Game](https://codeforces.com/contest/1365/problem/A): Number of reamining moves is min(col, row). So depending if is even or odd we can determine the winner.
 
 
