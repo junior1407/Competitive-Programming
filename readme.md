@@ -179,6 +179,12 @@
 
 * [Mixing Water](https://codeforces.com/contest/1359/problem/C): Binary search problem. 
 
+* [Monopole Magnets](https://codeforces.com/contest/1344/problem/B): Search using BFS or DFS.  Discarding the impossible cases is quite hard.
+
+* [Multiset](https://codeforces.com/contest/1354/problem/D): Can be solved with binary search. Really hard to model.
+
+* [Ternary String](https://codeforces.com/contest/1354/problem/B): By grouping the same characters we only need to find the smallest seg[i] given that seg[i-1]!=seg[i+1].
+
 # Adhoc:boom:
 
 ---
