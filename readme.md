@@ -128,6 +128,7 @@
 - **Problems:**
   
   - [The Dog Task](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=611): Maxflow to choose maximum number of matchings. Retrieval of paths can be done by looking at the residual graph.
+  - [Attacking Rooks](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=602&page=show_problem&problem=4406) : Maxflow to perform bipartite matching. 
 
 ## MaxFlow MinCost
 
