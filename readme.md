@@ -188,6 +188,10 @@
 
 * [Ternary String](https://codeforces.com/contest/1354/problem/B): By grouping the same characters we only need to find the smallest seg[i] given that seg[i-1]!=seg[i+1].
 
+* [Minimizing Difference](https://codeforces.com/contest/1244/problem/E): Binary and Ternary search.  Use binary search to test possible differences and then ternary searchs to find minimum values.
+
+* [Hamburgers](https://codeforces.com/problemset/problem/371/C): Binary Search the number of itens that can be made.
+
 # Adhoc:boom:
 
 ---
@@ -250,6 +254,7 @@
 * [Eugene and an Array](https://codeforces.com/contest/1333/problem/C): Hard to see it as a greedy.  By realizing that a set { ai , ai+1 ...  aj} has a sum 0 if SuffixSum(ai-1) ==  SuffimSum(aj),  the number of sub good arrays is j - i -1.
 * [Tree Shufling](https://codeforces.com/contest/1363/problem/E): Greedy Problem.  Children nodes can have their parent's cost if it's smaller than theirs.  Then solving bottom to top can be done in a greedy way.
 * [Road to Zero](https://codeforces.com/contest/1342/problem/A): If 2a > b, we can use both operations.
+* [Most socially-distanced subsequence](https://codeforces.com/contest/1364/problem/B):  if a > b and b>c or  a< b and b <c, then b is not necessary.
 
 # Constructive:boom:
 
@@ -269,3 +274,5 @@
 * [Card Constructions](https://codeforces.com/contest/1345/problem/B): Number of trianglesis given by  summation of n. That is, n*(n+1).  3 by triangle and excluding the floor. 
 * [Hilbert's Hotel](https://codeforces.com/contest/1345/problem/C): Remember remainder and module are different operations when the number is negative. 
 * [Matrix Game](https://codeforces.com/contest/1365/problem/A): Number of reamining moves is min(col, row). So depending if is even or odd we can determine the winner.
+* [XXXXX](https://codeforces.com/contest/1364/problem/A): Removing elements non divisible by X is the way to go.  From the front or back. 
+* 
