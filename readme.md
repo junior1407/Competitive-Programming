@@ -164,6 +164,8 @@
 
 * [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/submissions/code/149588080)
 
+* [Xenia and Colorful Gems](https://codeforces.com/contest/1337/problem/D):  Lower bound and Upper bound.
+
 * [Dreamoon and Ranking Collection](https://codeforces.com/contest/1330/problem/A):  Search in array by counting gaps.
 
 * [Pão a Metro](https://www.urionlinejudge.com.br/judge/en/problems/view/2329): Pure Binary Search Problem
@@ -191,6 +193,8 @@
 * [Minimizing Difference](https://codeforces.com/contest/1244/problem/E): Binary and Ternary search.  Use binary search to test possible differences and then ternary searchs to find minimum values.
 
 * [Hamburgers](https://codeforces.com/problemset/problem/371/C): Binary Search the number of itens that can be made.
+
+* [Linova and Kingdom](https://codeforces.com/contest/1337/problem/C): Greedy DFS.
 
 # Adhoc:boom:
 
@@ -255,6 +259,7 @@
 * [Tree Shufling](https://codeforces.com/contest/1363/problem/E): Greedy Problem.  Children nodes can have their parent's cost if it's smaller than theirs.  Then solving bottom to top can be done in a greedy way.
 * [Road to Zero](https://codeforces.com/contest/1342/problem/A): If 2a > b, we can use both operations.
 * [Most socially-distanced subsequence](https://codeforces.com/contest/1364/problem/B):  if a > b and b>c or  a< b and b <c, then b is not necessary.
+* [Kana and Dragon Quest game](https://codeforces.com/contest/1337/problem/B): Use all absortions until the hp doesnt get any lower.
 
 # Constructive:boom:
 
