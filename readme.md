@@ -70,6 +70,7 @@
 - **Problems:**
   
   - [Count Luck](https://www.hackerrank.com/challenges/count-luck/problem): Pure
+  - [Stamps](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=101): Backtracking and DP. Really nice!
 
 # 
 
