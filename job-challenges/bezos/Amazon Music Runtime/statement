@@ -1,0 +1,17 @@
+Pick 2 songs in a way that they end 30 seconds before the duration.
+
+Tie:  Select the pair that contain the longest song.
+
+Keep the original order.
+
+
+songs durations <= 1001 
+
+Example 1
+
+    duration = 90 (90 - 30, consider 60)
+    songs = [1, 10, 25, 25,  35, 60]
+
+    Output
+    [2, 4]   (Musics 25 + 35 =  60)
+    (2 is chosen instead of 3 because lowest index has higher priority)

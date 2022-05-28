@@ -1,0 +1,15 @@
+There is a grocery store with n produtcs.
+The quantity of each product "i" is given by arr[i]
+You are not obligated to take all units of a product, you may take only part of it.
+Your tasks is to find the maximum number of itens you can collect, by selecting 
+a subarray and picking in a strictly increasing way.
+
+For example
+
+input = [7, 4 , 5 , 2, 6, 5]
+
+You may take indexes (0,2),  taking respectively 3, 4, 5, summing 12
+
+or 
+
+You may take indexes (2,5), taking respectivy 1,2,4,5, summing 12
